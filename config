@@ -6,12 +6,11 @@ custom-shader = shaders/cursor_smear.glsl
 # custom-shader = shaders/debug_cursor_static.glsl
 # custom-shader = shaders/cursor_blaze.glsl
 
-theme = dark:Kanagawa Dragon,light:Catppuccin Latte
-# theme = dark:Catppuccin Mocha,light:Github Light High Contrast
+theme = dark:Nightfox,light:Dayfox
 
-font-size = 18
-# font-family = FiraCode Nerd Font Mono Ret
-font-family = Monaco
+font-size = 19
+font-family = FiraCode Nerd Font Mono Ret
+# font-family = Monaco Nerd Font
 
 macos-titlebar-style = hidden
 
